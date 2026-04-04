@@ -1,3 +1,6 @@
+//misbah khatoon 4/4/2026
+
+
 document.getElementById("scanBtn").addEventListener("click", async () => {
     // 1. Initial UI feedback
     const scanBtn = document.getElementById("scanBtn");
