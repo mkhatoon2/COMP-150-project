@@ -3,8 +3,14 @@
   "name": "Content Classifier",
   "version": "1.0",
   "description": "Checks if a webpage is educational or graphic.",
+  "icons": {
+    "128": "icon.png"
+  },
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon.png"
+    }
   },
   "permissions": [
     "activeTab",
