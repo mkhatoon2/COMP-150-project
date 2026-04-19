@@ -15,7 +15,7 @@ def classify_content():
 
     # 2. Define your classification rules
     educational_keywords = ['science', 'math', 'history', 'tutorial', 'learning']
-    graphic_keywords = ['violence', 'blood', 'gore', 'weapons', 'nsfw']
+    graphic_keywords = ['violence', 'blood', 'gore', 'weapons', 'nsfw', 'explicit', 'graphic', 'death']
 
     # 3. Analyze the text to find the category
     category = "Neutral / Unclassified"
